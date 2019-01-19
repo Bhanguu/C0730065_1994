@@ -10,7 +10,10 @@ namespace C0730065
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(1 + 1);
+            int a = 8;
+            int b = 9;
+            int g = 3;
+
         }
     }
 }
