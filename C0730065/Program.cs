@@ -14,6 +14,7 @@ namespace C0730065
             int b = 9;
             int g = 3;
             int u = 9;
+            int v = 9;
 
         }
     }
