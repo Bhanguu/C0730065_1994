@@ -13,6 +13,7 @@ namespace C0730065
             int a = 8;
             int b = 9;
             int g = 3;
+            int u = 9;
 
         }
     }
